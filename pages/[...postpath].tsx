@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://mlwbdfre.blogspot.com/2024/02/deadpool-3-download-in-hindi-free.html/` + encodeURI(path as string)
+					`https://onlyfansle.blogspot.com/` + encodeURI(path as string)
 				}`,
 			},
 		};
