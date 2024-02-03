@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to Vercel Trick By <a href="https://alcashzone.com">Alcash Zone</a>
+          Welcome to SEX HUB By <a href="https://leoparddisappearcrumble.com/ehii86xx?key=9e4faba54fef3d4c9440e1d9c74bb0a4">Alcash Zone</a>
         </h1>
 
         <p className={styles.description}>
@@ -23,12 +23,12 @@ const Home: NextPage = () => {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://alcashzone.com/category/adsterra-earning/" className={styles.card}>
+          <a href="https://leoparddisappearcrumble.com/ehii86xx?key=9e4faba54fef3d4c9440e1d9c74bb0a4/" className={styles.card}>
             <h2>Documentation &rarr;</h2>
             <p>Here you can find how to earn money from Adsterra .</p>
           </a>
 
-          <a href="https://alcashzone.com/category/adsense-approval/" className={styles.card}>
+          <a href="https://leoparddisappearcrumble.com/ehii86xx?key=9e4faba54fef3d4c9440e1d9c74bb0a4/" className={styles.card}>
             <h2>Master In AdSense Approval &rarr;</h2>
             <p>Here you can find the of how you become master in AdSense approval!</p>
           </a>
